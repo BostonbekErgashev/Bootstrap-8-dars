@@ -1,0 +1,9 @@
+.good{
+    border-top: 1px solid white;
+    background-color: rgb(15, 142, 95);
+    color: white;
+}
+.job{
+    background-color: white;
+    width: 500px;
+}
